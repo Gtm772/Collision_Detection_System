@@ -1,0 +1,7 @@
+sign in to github SSH on ubuntu using an SSH key
+clone the repo
+use the following commands to update repo once you make changes
+
+git add .
+git commit -m "some message describing update"
+git push

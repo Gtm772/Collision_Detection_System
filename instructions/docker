@@ -1,0 +1,9 @@
+after installing Docker, you just need to build the image:
+
+docker build -t my-api .
+
+and then run it:
+
+docker run -p 8000:8000 my-api
+
+
